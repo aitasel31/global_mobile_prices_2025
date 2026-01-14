@@ -44,3 +44,8 @@ The Tableau component presents interactive and insightful visualizations derived
 - Final conclusions and observations
 
 **This document serves as the complete written report for the project.*
+
+### Contributors
+- Asel Aitkulova (me) - Excel analysis, Documentation
+- Sezim Bolotkanova - Tableau Visualizations, Documentation
+- Aisaule Shamil - Documentation
